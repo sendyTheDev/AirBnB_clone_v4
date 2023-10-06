@@ -158,7 +158,15 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-Tebogo Legoabe - [Github](https://github.com/TebogoLegoabe) / [LinkedIn](https://www.linkedin.com/in/tebogo-legoabe)
+
+Tebogo Legoabe - [Github](https://github.com/TebogoLegoabe) / [LinkedIn](https://www.linkedin.com/in/tebogo-legoabe)	
+
+Front-end of the project(part-4)
+- writing script that starts a Flask web application
+- change filter section from static to dynamic
+- write JavaScript script that is only executed when DOM is loaded
+- update CORS and API
+ 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
