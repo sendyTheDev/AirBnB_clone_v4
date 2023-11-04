@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Starts a Flash Web Application """
+""" Starts my current Flash Web Application """
 from models import storage
 import uuid
 from models.state import State

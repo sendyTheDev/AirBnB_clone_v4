@@ -14,4 +14,3 @@ $(document).ready(function() {
 		$('#amenities h4').text('Amenities: ' + amenityText);
 	});
 });
-
